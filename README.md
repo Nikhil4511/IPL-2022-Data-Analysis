@@ -89,3 +89,6 @@ pip install pandas numpy matplotlib Plotly
 ## Open the Jupyter Notebook
 
 jupyter notebook IPL2022.ipynb
+
+## Screenshot
+<img width="1102" height="360" alt="newplot (1)" src="https://github.com/user-attachments/assets/7c7b7c91-7012-4483-a68d-287251a987d9" />
