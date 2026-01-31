@@ -76,16 +76,16 @@ Teams adapting strategy based on venue conditions have higher win rates
 
 ## How to Run the Project
 
-Clone the repository
+### Clone the repository
 
 git clone https://github.com/your-username/ipl-2022-data-analysis.git
 
 
-Install required libraries
+### Install required libraries
 
-pip install pandas numpy matplotlib seaborn
+pip install pandas numpy matplotlib Plotly
 
 
-Open the Jupyter Notebook
+## Open the Jupyter Notebook
 
 jupyter notebook IPL2022.ipynb
